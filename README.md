@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rushishwar Reddy Manthena
 
-<!--
-**RushishwarM/RushishwarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Eng in Information Systems Security (Concordia University, Montreal) with CompTIA Security+. I build home labs to practise detection, identity and cloud security, and I write down what broke and how I fixed it.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Microsoft Sentinel SIEM Lab](https://github.com/RushishwarM/sentinel-siem-lab): Azure Arc and the Azure Monitor Agent on a Windows domain controller, three KQL detection rules mapped to MITRE ATT&CK, and incident triage and tuning.
+- [Active Directory Lab](https://github.com/RushishwarM/active-directory-lab): a Windows Server 2022 domain with OUs, security groups, Group Policy, and PowerShell scripts for bulk onboarding and offboarding with audit logging.
+- [Microsoft Entra ID Lab](https://github.com/RushishwarM/entra-id-lab): users, groups, a least-privilege Helpdesk Administrator role, MFA with security defaults, offboarding, and sign-in and audit log analysis.
+
+## Skills
+
+Microsoft Sentinel, KQL, Active Directory, Microsoft Entra ID, Group Policy, PowerShell, Windows Server, SIEM log analysis, RBAC and least privilege, Google Cloud IAM.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rushishwar)
